@@ -1,0 +1,56 @@
+.rowmundo{
+    color: black;
+}
+.corazul {
+    color:rgb(30, 204, 39);
+}
+h2, h3 {
+    color:orange;
+}
+.cor-vermelho {
+    color: crimson;
+}
+
+#titles {
+    background-color: white;
+}
+
+.card img {
+    width: 300px;
+    height: 300px;
+}
+.cards img {
+    width: 400px;
+    height: 600px;
+    }
+.preto {
+    color: black;
+}
+h4:hover {
+    color: brown;
+    cursor: pointer;
+}
+#categories {
+    background-color: chartreuse;
+}
+#about {
+    background-color: rgb(51, 248, 12);
+}
+.cor-azul {
+    color: black;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(yellow,rgb(184, 187, 16),rgb(206, 50, 11));
+}
+h1{
+    font-size: 70px;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    text-decoration: none;
+    color: blue;
+}
